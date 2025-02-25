@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"SortedStackApp","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"<Unnamed>","c":"SortedStackApp","l":"SortedStackApp()","u":"%3Cinit%3E()"}];updateSearchResults();
